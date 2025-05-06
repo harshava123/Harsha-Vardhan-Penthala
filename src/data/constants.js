@@ -304,7 +304,7 @@ export const Bio = {
       school: "Mallareddy University, Hyderabad",
       date: "Oct 2021 - Sep 2025",
       grade: "8.89 CGPA",
-      desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Mallareddy University, Hyderabad. I have completed 5 semesters and have a CGPA of 8.89. I have taken courses in Artificial Intelligence,DeepLearning,MachineLeraning, Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at KIIT, where I am learning and working on exciting projects with a team of talented developers.",
+      desc: "I have graduated with a Bachelor's degree in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning from Mallareddy University, Hyderabad, with a CGPA of 8.89. During my studies, I completed courses in Deep Learning, Machine Learning, Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I was the President of the Entrepreneurship Cell (E-Cell), where I led initiatives to foster innovation and startup culture among students. Additionally, I was an active member of the Google Developer Student Club (GDSC) at Mallareddy University (MRU), collaborating on exciting projects with a team of talented developers.",
       degree: "Bachelor of Technology - BTech, Computer Science and Engineering(Artificial Intelligence)",
     },
     {
